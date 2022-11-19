@@ -3,7 +3,7 @@ PROJECT TITLE :
     Visualizing and Predicting Heart Diseases with an Interactive Dash Board
 
 TEAM MEMBERS :
-Bharathi S
-Dhana Sre M
-Dharshini R
-Gurudeepa R
+Bharathi S,
+Dhana Sre M,
+Dharshini R,
+Gurudeepa R.
